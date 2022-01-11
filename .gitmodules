@@ -1,6 +1,6 @@
-[submodule "device"]
+[submodule "device/semptian"]
 	path = device
 	url = https://github.com/SemptianSwitch/semptian.git
-[submodule "platform/barefoot"]
+[submodule "platform/barefoot/sonic-platform-modules-semptian"]
 	path = platform/barefoot
 	url = https://github.com/SemptianSwitch/sonic-platform-modules-semptian.git
